@@ -1,1 +1,5 @@
-Hello world
+<?php
+
+$name = "nabil";
+
+echo "hello " . $name;
