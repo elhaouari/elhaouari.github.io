@@ -513,6 +513,13 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+
+.profile-image {
+    width: 180px;
+    height 180px;
+    border-radius: 50%;
+}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
